@@ -35,7 +35,7 @@ def __init__(self, url, download_folder, metadata_file):
 - Crea la estructura de carpetas necesaria
 - Prepara el entorno para el almacenamiento
 
-b) b) Método de Descarga (download_image)
+b) Método de Descarga (download_image)
 ```python
 def analyze_image(self, filepath):
 ```
