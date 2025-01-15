@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tu-usuario/tu-repositorio/main)
+
 # Automated_Dataset_Construction
 La creación de datasets personalizados es esencial en aplicaciones de visión computarizada cuando los conjuntos de datos existentes no cumplen con los requisitos específicos de un problema. En este trabajo, presentamos un algoritmo automatizado para la construcción de un dataset enfocado en la detección de infracciones vehiculares en pasos peatonales durante el turno asignado a los peatones por las señales de control de tráfico.
 
